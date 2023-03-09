@@ -1,1 +1,1 @@
-from .hallo import *
+import test_function
